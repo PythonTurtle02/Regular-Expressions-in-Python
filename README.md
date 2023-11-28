@@ -1,3 +1,5 @@
+Watch and Learn : https://youtu.be/F9khvFpuibY
+
 # Regular-Expressions-in-Python
 A Comprehensive Guide for Beginners. Crucial Role in OCR Projects
 In regular expressions (regex), \d and [A-Z] are special character classes that represent certain sets of characters. Let me explain each one:
